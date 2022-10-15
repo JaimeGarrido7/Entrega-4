@@ -167,6 +167,7 @@ function updateContr(i) {
   indexContr();
 };
 
+
 function deleteContr(i) {
   //Actualiza el modelo borrando la película seleccionada
   //Confirmación de borrado --> Botón Aceptar devuelve true, Cancel false
